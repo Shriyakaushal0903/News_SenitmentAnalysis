@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 # Your News API key
 # API_KEY = os.getenv("NEWS_API_KEY")
-API_KEY = '79e3842815ea48f9ae7cb26293aeb48c'
+API_KEY = ""
 
 # API_KEY = os.getenv("NEWS_API_KEY")
 
