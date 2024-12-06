@@ -1,2 +1,3 @@
-# TwitterHashtag_SA
+# NEWS SA
+
 Twitter Hashtag Sentiment Analysis
